@@ -3,8 +3,7 @@ A 3D game written in C++ using the OpenGL and SDL libraries in a Linux environme
 The game can be played on Linux only.
 
 ## Installation
-Download the files and run the makefile inside the *project* folder. <br> You can find
-more information about the game <a href="http://helixgame.altervista.org/">here</a> (in italian).
+Download the files and run the makefile inside the *project* folder.
 
 ## Dependencies
 In order to play the game, you need to install the following dependencies:
